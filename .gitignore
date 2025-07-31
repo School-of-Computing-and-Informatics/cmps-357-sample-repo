@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+ENV/
+venv/
+
+# C++
+*.o
+*.out
+main
+
+# Java
+/build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# General
+*.log
